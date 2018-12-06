@@ -1,7 +1,7 @@
 # PathfindingAlgos
-Assignment 1 - Using Admissible &amp; Consistent Heuristics for Pacman AI
+Using Admissible &amp; Consistent Heuristics for Pacman AI
 
-For my AI class, this assignment explored the variety of search algorithms and their optimizations.
+Exploring the variety of search algorithms and their optimizations.
 
 Search Algorithms Included are:
 - BFS
